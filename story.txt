@@ -1,2 +1,4 @@
 Once upon a time in a land of code a new story began.
 The story was about learning vscode and Github.
+A wise old grandpa named "Sanna" watched from a tree.
+This is a story.
